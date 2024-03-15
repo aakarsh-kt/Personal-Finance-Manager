@@ -1,0 +1,1 @@
+print("Hemlo, I am a script!")
